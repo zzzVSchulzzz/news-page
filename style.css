@@ -104,3 +104,14 @@ span {
     color: rgba(95, 88, 49, 0.838);
     font-style: italic;
 }
+
+article:nth-child(2n) {
+    background-color: rgba(255, 228, 196, 0.703);
+}
+
+.new::before {
+    content: '\1F36D New: ';
+    color: palevioletred;;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
