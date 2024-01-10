@@ -26,6 +26,7 @@ footer {
     padding-top: 20px;
     padding-bottom: 20px;
     text-align: center;
+    background-color: whitesmoke;
 }
 
 footer .links {
@@ -34,7 +35,7 @@ footer .links {
 }
 
 footer a {
-    color: rgba(244, 224, 109, 0.838);
+    color: rgba(178, 149, 113, 0.7);
     padding: 0 25px;
     font-size: 15px;
     font-weight: 600;
@@ -44,7 +45,7 @@ footer a {
 }
 
 footer a:hover {
-    color: palevioletred;
+    color: rgba(95, 88, 49, 0.838);
 }
 
 ul {
@@ -55,7 +56,7 @@ ul {
 }
 
 div.copyright {
-    color: rgba(244, 224, 109, 0.486);
+    color: rgba(178, 149, 113, 0.7);
     margin: -20px;
 }
 
