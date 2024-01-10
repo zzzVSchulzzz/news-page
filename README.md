@@ -16,4 +16,13 @@ There is a file in the site folder in the file manager "index.html ".
 
 Thank you for your interest in the project!
 
+<p>
+<a href="http://jigsaw.w3.org/css-validator/check/referer">
+    <img style="border:0;width:88px;height:31px"
+        src="https://jigsaw.w3.org/css-validator/images/vcss"
+        alt="Correct CSS!">
+    </a>
+</p>
+
+
 ![Thank you](./img/pngwing.com.png)
